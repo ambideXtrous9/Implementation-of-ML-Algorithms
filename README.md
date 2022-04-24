@@ -1,2 +1,2 @@
-# Machine-Learn-Assignments
+# Machine-Learning-Assignments
 Data Science Machine Learning Lab
